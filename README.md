@@ -1,2 +1,2 @@
-# Improving-Demonstration-Movements-by-RL
-Improving learned robot movements by deep reinforcement learning
+### Improving learned robot demonstration movements by deep reinforcement learning
+
